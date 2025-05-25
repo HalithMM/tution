@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import { StudentProfile } from "./studentProfile";
+import { StudentProfile } from "./StudentProfile"
 
 function Student () {
     return (
