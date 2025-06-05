@@ -10,7 +10,7 @@ Smart Tuition Management is a web-based application built to streamline the dail
 
 Automation: n8n (No-code automation tool)
 
-Backend: Firebase/Firestore (or integrate your own backend)
+Backend: Firebase/Firestore 
 
 🚀 Features Role-Based Access:
 
