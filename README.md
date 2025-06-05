@@ -1,12 +1,66 @@
-# React + Vite
+📚 Smart Tuition Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and efficient solution for managing tuition centers, academies, and schools across Tamil Nadu.
 
-Currently, two official plugins are available:
+📝 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Smart Tuition Management is a web-based application built to streamline the daily operations of tuition centers and academies. It offers role-based access for admins, faculty, and students to manage essential activities like student details, fee invoices, attendance, salary management, and financial reporting. With integrated automation using n8n, this system brings smart reminders and updates to parents via WhatsApp/SMS, making communication seamless and timely.
 
-## Expanding the ESLint configuration
+🛠 Tech Stack Frontend: React.js, TailwindCSS, MUI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Automation: n8n (No-code automation tool)
+
+Backend: Firebase/Firestore (or integrate your own backend)
+
+🚀 Features Role-Based Access:
+
+Admin: Full control, financial reports, fee management, and salary tracking
+
+Faculty: Attendance management, study materials sharing
+
+Student: View own profile, attendance, and updates
+
+Financial Reports
+
+-Monthly income and expense reports
+
+-Track and compare academy growth trends
+
+Batch & Class Management
+
+-Create and manage multiple batches
+
+-Organize students by class, level, or schedule
+
+Automated Notifications (via n8n)
+
+-Fee payment reminders
+
+-Absent student notifications
+
+-Event and exam alerts
+
+Customizable for Any Institution
+
+-Suitable for tuition centers, primary schools, and large academies
+
+-Easy customization for various academic workflows
+
+User-Friendly UI
+
+-Clean and responsive interface using React, TailwindCSS, and MUI
+📌 About the Project This project was inspired by the growing need for small and mid-sized educational institutions to go digital without complex software. It’s designed for simplicity, usability, and effectiveness — particularly targeting local educational institutions in Tamil Nadu. It’s already used by a leading tuition center in our district, helping them improve fee collection, reduce manual errors, and communicate efficiently with parents.
+
+🤔 Why Use Smart Tuition Management? Reduces manual paperwork and errors
+
+Centralizes data management in one platform
+
+Ensures timely communication with parents
+
+Helps understand and grow financially through reporting
+
+Scales easily for small to large institutions
+
+🧾 Conclusion Smart Tuition Management is more than just a tool — it’s a complete system to empower tuition centers and schools to operate smartly and grow sustainably. Built with modern web technologies, it ensures every user — from admin to student — gets a seamless experience.
+
+🏅 Trusted By This software is actively used by a renowned tuition center in our district to manage over 200+ students, helping them scale efficiently and financially.
